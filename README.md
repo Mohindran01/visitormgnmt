@@ -1,4 +1,4 @@
-# visitormgnmt
+# Visitor Management System
 To maintain entries of visitors with mysql database connectivity 
 
 Tools used:
