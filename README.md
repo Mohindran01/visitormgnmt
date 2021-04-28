@@ -8,9 +8,7 @@ HTML
 CSS
 JAVASCRIPT
 BOOTSTRAP
-APP LINK:https://visitormngmt.herokuapp.com/
-Username=admin 
-Password=Test@123
+
 
 This is a system which helps to maintain the entries of the visitors in an organization
 It has an admin module where the admin can check for the total no of visitors,and also visitors in a given range of dates
